@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent betty , chgrp school staff
+chown vincent betty  
+chgrp school staff
